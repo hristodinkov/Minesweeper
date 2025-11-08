@@ -1,0 +1,364 @@
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.exe
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.deps.json
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.runtimeconfig.json
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Azure.Core.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Azure.Identity.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\FireSharp.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\FireSharp.Serialization.JsonNet.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\System.Net.Http.Extensions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\System.Net.Http.Primitives.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\RestSharp.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\System.Memory.Data.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.Diagnostics.Eventing.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.Fonts.Fluent.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.Foundation.Logging.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.Foundation.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Composition.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Dispatching.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Toolkit.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.Xaml.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\Uno.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\ServiceLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\ServiceLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Release\net6.0-windows\DataLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.DifficultySetting.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.GameLostScreen.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Leaderbord_Form.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Log_In.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.MainMenu.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Profiles.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Sign_up.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.TheGame.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.WinScreen.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.CopyComplete
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\refint\PresentationLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Release\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.exe
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.deps.json
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.pdb
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Azure.Core.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Azure.Identity.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\FireSharp.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\FireSharp.Serialization.JsonNet.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\System.Net.Http.Extensions.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\System.Net.Http.Primitives.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\RestSharp.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\System.Memory.Data.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.Diagnostics.Eventing.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.Fonts.Fluent.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.Foundation.Logging.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.Foundation.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Composition.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Dispatching.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Toolkit.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.Xaml.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\Uno.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\DataLayer.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\ServiceLayer.pdb
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\BusinessLayer.pdb
+C:\Users\hrist\Documents\programirane\PresentationLayer\bin\Release\net6.0-windows\DataLayer.pdb
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.DifficultySetting.resources
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.GameLostScreen.resources
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Leaderbord_Form.resources
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Log_In.resources
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.MainMenu.resources
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Profiles.resources
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Sign_up.resources
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.TheGame.resources
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.WinScreen.resources
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\refint\PresentationLayer.dll
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.pdb
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\hrist\Documents\programirane\PresentationLayer\obj\Release\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.exe
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.deps.json
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Azure.Core.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Azure.Identity.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\FireSharp.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\FireSharp.Serialization.JsonNet.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.Net.Http.Extensions.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.Net.Http.Primitives.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\RestSharp.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.Memory.Data.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.Diagnostics.Eventing.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.Fonts.Fluent.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.Foundation.Logging.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.Foundation.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Composition.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Dispatching.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Toolkit.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.Xaml.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\DataLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\ServiceLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\BusinessLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\DataLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.DifficultySetting.resources
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.GameLostScreen.resources
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Leaderbord_Form.resources
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Log_In.resources
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.MainMenu.resources
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Profiles.resources
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Sign_up.resources
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.TheGame.resources
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.WinScreen.resources
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\refint\PresentationLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\Presenta.9C561136.Up2Date
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.exe
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.deps.json
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\PresentationLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Azure.Core.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Azure.Identity.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\FireSharp.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\FireSharp.Serialization.JsonNet.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.Net.Http.Extensions.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.Net.Http.Primitives.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\RestSharp.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.Memory.Data.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.Diagnostics.Eventing.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.Fonts.Fluent.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.Foundation.Logging.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.Foundation.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Composition.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Dispatching.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.Toolkit.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.UI.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.Xaml.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\Uno.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\BusinessLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\DataLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\ServiceLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\ServiceLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\BusinessLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\bin\Release\net6.0-windows\DataLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.DifficultySetting.resources
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.GameLostScreen.resources
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Leaderbord_Form.resources
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Log_In.resources
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.MainMenu.resources
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Profiles.resources
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.Sign_up.resources
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.TheGame.resources
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.WinScreen.resources
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\Presenta.9C561136.Up2Date
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\refint\PresentationLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\obj\Release\net6.0-windows\ref\PresentationLayer.dll

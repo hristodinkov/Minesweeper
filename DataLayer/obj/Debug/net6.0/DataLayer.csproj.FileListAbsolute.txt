@@ -1,0 +1,51 @@
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.runtimeconfig.json
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.genruntimeconfig.cache
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+C:\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+C:\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.runtimeconfig.json
+C:\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.dll
+C:\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\MinesweeperProject\DataLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\MinesweeperProject\DataLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.dll
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.genruntimeconfig.cache
+C:\MinesweeperProject\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.runtimeconfig.json
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\bin\Debug\net6.0\ref\DataLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\DataLayer\obj\Debug\net6.0\DataLayer.genruntimeconfig.cache

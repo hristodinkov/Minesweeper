@@ -1,0 +1,36 @@
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\MinesweeperProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\MinesweeperProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\MinesweeperProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\bin\Debug\net6.0\ref\BusinessLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb

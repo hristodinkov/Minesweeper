@@ -1,0 +1,68 @@
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Release\net6.0\DataLayer.deps.json
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Release\net6.0\DataLayer.runtimeconfig.json
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Release\net6.0\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Release\net6.0\DataLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Release\net6.0\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\DataLayer\bin\Release\net6.0\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\DataLayer.csproj.AssemblyReference.cache
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\DataLayer.AssemblyInfoInputs.cache
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\DataLayer.AssemblyInfo.cs
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\DataLayer.csproj.CopyComplete
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\refint\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\DataLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\DataLayer.genruntimeconfig.cache
+D:\MinesweeperProject\MinesweeperProject\DataLayer\obj\Release\net6.0\ref\DataLayer.dll
+C:\Users\hrist\Documents\programirane\DataLayer\bin\Release\net6.0\DataLayer.deps.json
+C:\Users\hrist\Documents\programirane\DataLayer\bin\Release\net6.0\DataLayer.runtimeconfig.json
+C:\Users\hrist\Documents\programirane\DataLayer\bin\Release\net6.0\DataLayer.dll
+C:\Users\hrist\Documents\programirane\DataLayer\bin\Release\net6.0\DataLayer.pdb
+C:\Users\hrist\Documents\programirane\DataLayer\bin\Release\net6.0\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\DataLayer\bin\Release\net6.0\BusinessLayer.pdb
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\DataLayer.AssemblyInfo.cs
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\DataLayer.csproj.CopyComplete
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\DataLayer.dll
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\refint\DataLayer.dll
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\DataLayer.pdb
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\DataLayer.genruntimeconfig.cache
+C:\Users\hrist\Documents\programirane\DataLayer\obj\Release\net6.0\ref\DataLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\DataLayer.deps.json
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\DataLayer.runtimeconfig.json
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\DataLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\DataLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\BusinessLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.AssemblyInfo.cs
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\refint\DataLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.genruntimeconfig.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\ref\DataLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.csproj.Up2Date
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\DataLayer.deps.json
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\DataLayer.runtimeconfig.json
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\DataLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\DataLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\BusinessLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\bin\Release\net6.0\BusinessLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.AssemblyInfo.cs
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.csproj.Up2Date
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\refint\DataLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\DataLayer.genruntimeconfig.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\obj\Release\net6.0\ref\DataLayer.dll

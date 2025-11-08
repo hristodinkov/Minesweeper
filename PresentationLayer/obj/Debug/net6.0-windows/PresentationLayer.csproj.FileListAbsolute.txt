@@ -1,0 +1,273 @@
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\ref\PresentationLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.DifficultySetting.resources
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.MainMenu.resources
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\refint\PresentationLayer.dll
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.DifficultySetting.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.MainMenu.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\refint\PresentationLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\FireSharp.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\FireSharp.Serialization.JsonNet.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\RestSharp.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\ServiceLayer.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\ServiceLayer.pdb
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.TheGame.resources
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\FireSharp.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\FireSharp.Serialization.JsonNet.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\RestSharp.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\ServiceLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\ServiceLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.DifficultySetting.resources
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.MainMenu.resources
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.TheGame.resources
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GameLostScreen.resources
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.WinScreen.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\FireSharp.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\FireSharp.Serialization.JsonNet.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\RestSharp.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\ServiceLayer.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\ServiceLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GameLostScreen.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.TheGame.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.WinScreen.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GameLostScreen.resources
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.WinScreen.resources
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Log_In.resources
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Profiles.resources
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Diagnostics.Eventing.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Fonts.Fluent.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Foundation.Logging.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Foundation.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.Composition.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.Dispatching.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.Toolkit.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Xaml.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Sign_up.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Diagnostics.Eventing.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Fonts.Fluent.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Foundation.Logging.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Foundation.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.Composition.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.Dispatching.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.Toolkit.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Xaml.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.dll
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Log_In.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Profiles.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Sign_up.resources
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Leaderbord_Form.resources
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Diagnostics.Eventing.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Fonts.Fluent.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Foundation.Logging.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Foundation.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.Composition.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.Dispatching.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.Toolkit.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.UI.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.Xaml.dll
+C:\MinesweeperProject\PresentationLayer\bin\Debug\net6.0-windows\Uno.dll
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Leaderbord_Form.resources
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Log_In.resources
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Profiles.resources
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Sign_up.resources
+C:\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinesweeperProject\MinesweeperProject\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Leaderbord_Form.resources

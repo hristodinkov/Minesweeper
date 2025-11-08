@@ -1,0 +1,45 @@
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\bin\Release\net6.0\BusinessLayer.deps.json
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\bin\Release\net6.0\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\bin\Release\net6.0\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Release\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Release\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Release\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Release\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Release\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Release\net6.0\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Release\net6.0\refint\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Release\net6.0\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\BusinessLayer\obj\Release\net6.0\ref\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\BusinessLayer\bin\Release\net6.0\BusinessLayer.deps.json
+C:\Users\hrist\Documents\programirane\BusinessLayer\bin\Release\net6.0\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\BusinessLayer\bin\Release\net6.0\BusinessLayer.pdb
+C:\Users\hrist\Documents\programirane\BusinessLayer\obj\Release\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\Documents\programirane\BusinessLayer\obj\Release\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\hrist\Documents\programirane\BusinessLayer\obj\Release\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\hrist\Documents\programirane\BusinessLayer\obj\Release\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Documents\programirane\BusinessLayer\obj\Release\net6.0\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\BusinessLayer\obj\Release\net6.0\refint\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\BusinessLayer\obj\Release\net6.0\BusinessLayer.pdb
+C:\Users\hrist\Documents\programirane\BusinessLayer\obj\Release\net6.0\ref\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\bin\Release\net6.0\BusinessLayer.deps.json
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\bin\Release\net6.0\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\bin\Release\net6.0\BusinessLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\refint\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\ref\BusinessLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\bin\Release\net6.0\BusinessLayer.deps.json
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\bin\Release\net6.0\BusinessLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\bin\Release\net6.0\BusinessLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\refint\BusinessLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\BusinessLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\obj\Release\net6.0\ref\BusinessLayer.dll

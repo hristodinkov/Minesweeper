@@ -1,0 +1,234 @@
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.exe
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.deps.json
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.runtimeconfig.json
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Azure.Core.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.csproj.AssemblyReference.cache
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.AssemblyInfoInputs.cache
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.AssemblyInfo.cs
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.csproj.CoreCompileInputs.cache
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.csproj.CopyComplete
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\refint\TestingLayer.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.genruntimeconfig.cache
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\obj\Debug\net6.0\ref\TestingLayer.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.exe
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.deps.json
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.runtimeconfig.json
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.pdb
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Azure.Core.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Azure.Identity.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Memory.Data.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\DataLayer.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\ServiceLayer.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\ServiceLayer.pdb
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.csproj.AssemblyReference.cache
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.AssemblyInfoInputs.cache
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.AssemblyInfo.cs
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.csproj.CoreCompileInputs.cache
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.csproj.CopyComplete
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.dll
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\refint\TestingLayer.dll
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.pdb
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.genruntimeconfig.cache
+C:\MinesweeperProject\TestingLayer\obj\Debug\net6.0\ref\TestingLayer.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\FireSharp.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\FireSharp.Serialization.JsonNet.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MinesweeperProject\TestingLayer\bin\Debug\net6.0\RestSharp.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\FireSharp.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\FireSharp.Serialization.JsonNet.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MinesweeperProject\MinesweeperProject\TestingLayer\bin\Debug\net6.0\RestSharp.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.exe
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.deps.json
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.runtimeconfig.json
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\ref\TestingLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\TestingLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Azure.Core.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\FireSharp.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\FireSharp.Serialization.JsonNet.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\RestSharp.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\DataLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.csproj.AssemblyReference.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.AssemblyInfoInputs.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.AssemblyInfo.cs
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.csproj.CoreCompileInputs.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.csproj.CopyComplete
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\obj\Debug\net6.0\ref\TestingLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\TestingLayer\obj\Debug\net6.0\TestingLayer.genruntimeconfig.cache

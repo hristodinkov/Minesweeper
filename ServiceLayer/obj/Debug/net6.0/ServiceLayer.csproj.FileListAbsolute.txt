@@ -1,0 +1,51 @@
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+C:\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+C:\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+C:\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+C:\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\DataLayer.dll
+C:\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+C:\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+C:\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+C:\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+C:\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\ref\ServiceLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\DataLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+D:\Documents\programirane\MineSweeper - staj s Grishi X Zara\MinesweeperProject\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb

@@ -1,0 +1,68 @@
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Release\net6.0\ServiceLayer.deps.json
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Release\net6.0\ServiceLayer.dll
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Release\net6.0\ServiceLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Release\net6.0\BusinessLayer.dll
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Release\net6.0\DataLayer.dll
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Release\net6.0\BusinessLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\bin\Release\net6.0\DataLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Release\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Release\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Release\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Release\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Release\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Release\net6.0\ServiceLayer.csproj.CopyComplete
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Release\net6.0\ServiceLayer.dll
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Release\net6.0\refint\ServiceLayer.dll
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Release\net6.0\ServiceLayer.pdb
+D:\MinesweeperProject\MinesweeperProject\ServiceLayer\obj\Release\net6.0\ref\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\ServiceLayer\bin\Release\net6.0\ServiceLayer.deps.json
+C:\Users\hrist\Documents\programirane\ServiceLayer\bin\Release\net6.0\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\ServiceLayer\bin\Release\net6.0\ServiceLayer.pdb
+C:\Users\hrist\Documents\programirane\ServiceLayer\bin\Release\net6.0\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\ServiceLayer\bin\Release\net6.0\DataLayer.dll
+C:\Users\hrist\Documents\programirane\ServiceLayer\bin\Release\net6.0\BusinessLayer.pdb
+C:\Users\hrist\Documents\programirane\ServiceLayer\bin\Release\net6.0\DataLayer.pdb
+C:\Users\hrist\Documents\programirane\ServiceLayer\obj\Release\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\hrist\Documents\programirane\ServiceLayer\obj\Release\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\Documents\programirane\ServiceLayer\obj\Release\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\hrist\Documents\programirane\ServiceLayer\obj\Release\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\hrist\Documents\programirane\ServiceLayer\obj\Release\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Documents\programirane\ServiceLayer\obj\Release\net6.0\ServiceLayer.csproj.CopyComplete
+C:\Users\hrist\Documents\programirane\ServiceLayer\obj\Release\net6.0\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\ServiceLayer\obj\Release\net6.0\refint\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\ServiceLayer\obj\Release\net6.0\ServiceLayer.pdb
+C:\Users\hrist\Documents\programirane\ServiceLayer\obj\Release\net6.0\ref\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\ServiceLayer.deps.json
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\ServiceLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\BusinessLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\DataLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\BusinessLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\DataLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\refint\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.pdb
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ref\ServiceLayer.dll
+C:\Users\hrist\Documents\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceL.3037F684.Up2Date
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\ServiceLayer.deps.json
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\ServiceLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\ServiceLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\BusinessLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\DataLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\BusinessLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\bin\Release\net6.0\DataLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceL.3037F684.Up2Date
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\refint\ServiceLayer.dll
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ServiceLayer.pdb
+C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\obj\Release\net6.0\ref\ServiceLayer.dll
