@@ -4,7 +4,7 @@ It is a small project of mine that I did on my internship at company Programista
 
 ## Preview
 
-gif
+<img src="minesweeperGif.gif" width="500" height="500">
 
 ## Layer Breakdown
 
