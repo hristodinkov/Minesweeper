@@ -4,7 +4,11 @@ It is a small project of mine that I did on my internship at company Programista
 
 ## Preview
 
-<img src="minesweeperGif.gif" width="500" height="500">
+<img src="Minesweeper-Preview.gif" width="500" height="500">
+
+## Build 
+
+You can find a playable build on [Itch.io](https://icaka-xd.itch.io/minesweeper) 
 
 ## Layer Breakdown
 
