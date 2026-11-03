@@ -3970,23 +3970,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hristo Dinkov\\.nuget\\packages\\": {},
+    "C:\\Users\\HristoDinkov\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hristo Dinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\HristoDinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "C:\\Users\\Hristo Dinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\DataLayer\\DataLayer.csproj",
-      "packagesPath": "C:\\Users\\Hristo Dinkov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hristo Dinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\DataLayer\\obj\\",
+      "projectPath": "C:\\Users\\HristoDinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\DataLayer\\DataLayer.csproj",
+      "packagesPath": "C:\\Users\\HristoDinkov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HristoDinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hristo Dinkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HristoDinkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3999,10 +3999,11 @@
       },
       "frameworks": {
         "net6.0": {
+          "framework": "net6.0",
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Hristo Dinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\Hristo Dinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\HristoDinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\HristoDinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\BusinessLayer\\BusinessLayer.csproj"
             }
           }
         }
@@ -4017,10 +4018,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net6.0": {
+        "framework": "net6.0",
         "targetAlias": "net6.0",
         "dependencies": {
           "FireSharp": {
@@ -4062,7 +4064,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   },

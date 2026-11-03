@@ -5596,23 +5596,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hristo Dinkov\\.nuget\\packages\\": {},
+    "C:\\Users\\HristoDinkov\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hristo Dinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\PresentationLayer\\PresentationLayer.csproj",
+      "projectUniqueName": "C:\\Users\\HristoDinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\PresentationLayer\\PresentationLayer.csproj",
       "projectName": "PresentationLayer",
-      "projectPath": "C:\\Users\\Hristo Dinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\PresentationLayer\\PresentationLayer.csproj",
-      "packagesPath": "C:\\Users\\Hristo Dinkov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hristo Dinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\PresentationLayer\\obj\\",
+      "projectPath": "C:\\Users\\HristoDinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\PresentationLayer\\PresentationLayer.csproj",
+      "packagesPath": "C:\\Users\\HristoDinkov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HristoDinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\PresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hristo Dinkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HristoDinkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5625,10 +5625,11 @@
       },
       "frameworks": {
         "net6.0-windows7.0": {
+          "framework": "net6.0-windows7.0",
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Hristo Dinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\ServiceLayer\\ServiceLayer.csproj": {
-              "projectPath": "C:\\Users\\Hristo Dinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\ServiceLayer\\ServiceLayer.csproj"
+            "C:\\Users\\HristoDinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "C:\\Users\\HristoDinkov\\Documents\\Lenovo\\programirane\\MineSweeper\\ServiceLayer\\ServiceLayer.csproj"
             }
           }
         }
@@ -5643,10 +5644,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net6.0-windows7.0": {
+        "framework": "net6.0-windows7.0",
         "targetAlias": "net6.0-windows",
         "dependencies": {
           "Uno.UI": {
@@ -5673,7 +5675,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -5685,7 +5687,7 @@
       "message": "Package 'FireSharp 2.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "FireSharp",
       "targetGraphs": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ]
     },
     {
@@ -5695,7 +5697,7 @@
       "message": "Package 'FireSharp.Serialization.JsonNet 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "FireSharp.Serialization.JsonNet",
       "targetGraphs": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ]
     },
     {
@@ -5705,7 +5707,7 @@
       "message": "Package 'Microsoft.Bcl 1.1.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Bcl",
       "targetGraphs": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ]
     },
     {
@@ -5715,7 +5717,7 @@
       "message": "Package 'Microsoft.Bcl.Async 1.0.168' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Bcl.Async",
       "targetGraphs": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ]
     },
     {
@@ -5725,7 +5727,7 @@
       "message": "Package 'Microsoft.Net.Http 2.2.28' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Net.Http",
       "targetGraphs": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ]
     },
     {
@@ -5735,7 +5737,7 @@
       "message": "Package 'Newtonsoft.Json 6.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ]
     },
     {
@@ -5745,7 +5747,7 @@
       "message": "Package 'RestSharp 104.4.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "RestSharp",
       "targetGraphs": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ]
     }
   ]

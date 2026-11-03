@@ -9,7 +9,7 @@ build_property.XamlSourceGeneratorTracingFolder =
 build_property.TargetFramework = net6.0-windows
 build_property.TargetFramework = net6.0-windows
 build_property.ProjectTypeGuidsProperty = 
-build_property.MSBuildProjectFullPath = C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\PresentationLayer.csproj
+build_property.MSBuildProjectFullPath = C:\Users\HristoDinkov\Documents\Lenovo\programirane\MineSweeper\PresentationLayer\PresentationLayer.csproj
 build_property.RootNamespace = PresentationLayer
 build_property.RootNamespace = PresentationLayer
 build_property.DefineConstantsProperty = TRACE,RELEASE,NET,NET6_0,NETCOREAPP,WINDOWS,WINDOWS7_0,NET5_0_OR_GREATER,NET6_0_OR_GREATER,NETCOREAPP3_0_OR_GREATER,NETCOREAPP3_1_OR_GREATER,WINDOWS7_0_OR_GREATER,HAS_UNO,UNO_HAS_FRAMEWORKELEMENT_MEASUREOVERRIDE,UNO_HAS_NO_IDEPENDENCYOBJECT,UNO_REFERENCE_API
@@ -44,6 +44,8 @@ build_property.UnoEnableXamlFuzzyMatching =
 build_property.UnoXamlResourcesTrimming = 
 build_property.BaseIntermediateOutputPath = obj\
 build_property.AssemblyName = PresentationLayer
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v6.0
 build_property.TargetPlatformMinVersion = 7.0
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
@@ -51,33 +53,33 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.ProjectDir = C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\PresentationLayer\
+build_property.ProjectDir = C:\Users\HristoDinkov\Documents\Lenovo\programirane\MineSweeper\PresentationLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 6.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Hristo Dinkov/Documents/Lenovo/programirane/MineSweeper - project Zara & Grishi/ServiceLayer/ServiceLayer.csproj]
+[C:/Users/HristoDinkov/Documents/Lenovo/programirane/MineSweeper/ServiceLayer/ServiceLayer.csproj]
 build_metadata.AdditionalFiles.SourceItemGroup = ProjectReference
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.FullPath = C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\ServiceLayer.csproj
-build_metadata.AdditionalFiles.Identity = C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\ServiceLayer\ServiceLayer.csproj
+build_metadata.AdditionalFiles.FullPath = C:\Users\HristoDinkov\Documents\Lenovo\programirane\MineSweeper\ServiceLayer\ServiceLayer.csproj
+build_metadata.AdditionalFiles.Identity = C:\Users\HristoDinkov\Documents\Lenovo\programirane\MineSweeper\ServiceLayer\ServiceLayer.csproj
 build_metadata.AdditionalFiles.XamlRuntime = 
 
-[C:/Users/Hristo Dinkov/Documents/Lenovo/programirane/MineSweeper - project Zara & Grishi/BusinessLayer/BusinessLayer.csproj]
+[C:/Users/HristoDinkov/Documents/Lenovo/programirane/MineSweeper/BusinessLayer/BusinessLayer.csproj]
 build_metadata.AdditionalFiles.SourceItemGroup = ProjectReference
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.FullPath = C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\BusinessLayer.csproj
-build_metadata.AdditionalFiles.Identity = C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\BusinessLayer\BusinessLayer.csproj
+build_metadata.AdditionalFiles.FullPath = C:\Users\HristoDinkov\Documents\Lenovo\programirane\MineSweeper\BusinessLayer\BusinessLayer.csproj
+build_metadata.AdditionalFiles.Identity = C:\Users\HristoDinkov\Documents\Lenovo\programirane\MineSweeper\BusinessLayer\BusinessLayer.csproj
 build_metadata.AdditionalFiles.XamlRuntime = 
 
-[C:/Users/Hristo Dinkov/Documents/Lenovo/programirane/MineSweeper - project Zara & Grishi/DataLayer/DataLayer.csproj]
+[C:/Users/HristoDinkov/Documents/Lenovo/programirane/MineSweeper/DataLayer/DataLayer.csproj]
 build_metadata.AdditionalFiles.SourceItemGroup = ProjectReference
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.FullPath = C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\DataLayer.csproj
-build_metadata.AdditionalFiles.Identity = C:\Users\Hristo Dinkov\Documents\Lenovo\programirane\MineSweeper - project Zara & Grishi\DataLayer\DataLayer.csproj
+build_metadata.AdditionalFiles.FullPath = C:\Users\HristoDinkov\Documents\Lenovo\programirane\MineSweeper\DataLayer\DataLayer.csproj
+build_metadata.AdditionalFiles.Identity = C:\Users\HristoDinkov\Documents\Lenovo\programirane\MineSweeper\DataLayer\DataLayer.csproj
 build_metadata.AdditionalFiles.XamlRuntime = 

@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Hristo Dinkov\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Hristo Dinkov\\.nuget\\packages",
+      "C:\\Users\\HristoDinkov\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HristoDinkov\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
